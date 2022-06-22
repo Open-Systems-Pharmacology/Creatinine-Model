@@ -2,7 +2,7 @@
 Whole-body PBPK model of creatinine as MATE1 and OCT2 biomarker
 
 ### Repository files
-Within this repository, we distribute a whole-body PBPK model of creatinine, that has been carefully developed using a large number of clinical studies and evaluated within our drug-biomarker interaction modeling network. The model applies endogenous synthesis in muscle cells, active tubular secretion via OCT2 and MATE1 as well as diurnal variation of renal function. Additionally, the model can describe increased creatinine concentrations in plasma after ingestion of differently prepared meat meals.
+Within this repository, we distribute a whole-body PBPK model of creatinine, that has been carefully developed using a large number of clinical studies and evaluated within our drug-biomarker interaction modeling network. The model applies endogenous synthesis in muscle cells, active tubular secretion via OCT2 and MATE1 as well as diurnal variation. Additionally, the model can describe increased creatinine concentrations in plasma after ingestion of differently prepared meat meals.
 
 The MoBi project file contains simulations of clinical studies utilized during model establishment, including the respective observed data [[1](#reference)][[2](#reference)][[3](#reference)][[4](#reference)]. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[5](#reference)].
 
